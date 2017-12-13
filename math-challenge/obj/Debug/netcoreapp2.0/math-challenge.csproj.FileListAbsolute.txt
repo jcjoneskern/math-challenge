@@ -1,0 +1,11 @@
+D:\Documents\Web\Repos\math-challenge\math-challenge\bin\Debug\netcoreapp2.0\math-challenge.deps.json
+D:\Documents\Web\Repos\math-challenge\math-challenge\bin\Debug\netcoreapp2.0\math-challenge.runtimeconfig.json
+D:\Documents\Web\Repos\math-challenge\math-challenge\bin\Debug\netcoreapp2.0\math-challenge.runtimeconfig.dev.json
+D:\Documents\Web\Repos\math-challenge\math-challenge\bin\Debug\netcoreapp2.0\math-challenge.dll
+D:\Documents\Web\Repos\math-challenge\math-challenge\bin\Debug\netcoreapp2.0\math-challenge.pdb
+D:\Documents\Web\Repos\math-challenge\math-challenge\obj\Debug\netcoreapp2.0\math-challenge.csprojResolveAssemblyReference.cache
+D:\Documents\Web\Repos\math-challenge\math-challenge\obj\Debug\netcoreapp2.0\math-challenge.csproj.CoreCompileInputs.cache
+D:\Documents\Web\Repos\math-challenge\math-challenge\obj\Debug\netcoreapp2.0\math-challenge.AssemblyInfoInputs.cache
+D:\Documents\Web\Repos\math-challenge\math-challenge\obj\Debug\netcoreapp2.0\math-challenge.AssemblyInfo.cs
+D:\Documents\Web\Repos\math-challenge\math-challenge\obj\Debug\netcoreapp2.0\math-challenge.dll
+D:\Documents\Web\Repos\math-challenge\math-challenge\obj\Debug\netcoreapp2.0\math-challenge.pdb
